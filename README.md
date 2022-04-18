@@ -65,7 +65,7 @@ C itoa() function has been used to convert argument integer to string. Integer t
 - You don’t have to handle precision
 - You don’t have to handle the length modifiers
 
-####5. Nothing in fine print is ever good news
+#### 5. Nothing in fine print is ever good news
 
 Use a local buffer of 1024 chars in order to call write as little as possible.
 
